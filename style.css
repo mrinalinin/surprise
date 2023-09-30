@@ -102,7 +102,7 @@ body{
     background-color: gold;
 }
 .frames:nth-child(2):hover{
-    left: 50px;
+    left: 25px;
     transition: 4s;
 }
 .frames:nth-child(3){
@@ -135,7 +135,7 @@ body{
         height: 360px;
         position: absolute;
         top: 75px;
-        left: 80px;
+        left: 50px;
         transition: 2s;
         transform-style: preserve-3d;
     }
@@ -145,7 +145,7 @@ body{
     .block{
         position: absolute;
         top: 680px;
-        right: 500px;
+        right: 478px;
         perspective: 800px;
     }
 }
